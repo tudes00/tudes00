@@ -1,4 +1,6 @@
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tudes00&repo=aomp&theme=dracula)](https://github.com/tudes00/aomp)    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tudes00&repo=discord-bot&theme=dracula&show_owner=true)](https://github.com/tudes00/discord-bot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tudes00&repo=aomp&theme=dracula)](https://github.com/tudes00/aomp)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tudes00&repo=discord-bot&theme=dracula&show_owner=true)](https://github.com/tudes00/discord-bot)
 
 [![<Tudes GitHub stats](https://github-readme-stats.vercel.app/api?username=tudes00&show_icons=true&theme=dracula&show=reviews,prs_merged,prs_merged_percentage)](https://github.com/tudes00)
 
