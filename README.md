@@ -1,5 +1,5 @@
 # Yo 👋, I'm **tudes**  
-## A french 🥖 student who **loves programming**👨‍💻 and **cybersecurity**🛡️!  
+## A french 🥖 student who **loves programming**👨‍💻, **climbing🧗‍♂️** and **cybersecurity**🛡️!  
 
 Here are my top projects📁:  
 
