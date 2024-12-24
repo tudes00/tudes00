@@ -8,4 +8,4 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tudes00&theme=dracula&hide=gherkin,batchfile&layout=compact&locale=fr)]()
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=tudes00&theme=dracula&locale=fr)](https://github.com/tudes00)
+[![GitHub Streak](https://streak-stats.demolab.com?user=tudes00&theme=dracula&locale=fr&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://github.com/tudes00)
