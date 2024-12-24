@@ -1,3 +1,5 @@
+Yo, I'm tudes, a french student who realy
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tudes00&repo=VulnHunter&theme=dracula&locale=fr)](https://github.com/tudes00/VulnHunter)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tudes00&repo=discord-bot&theme=dracula&locale=fr)](https://github.com/tudes00/discord-bot)
@@ -8,5 +10,5 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tudes00&theme=dracula&hide=gherkin,batchfile&layout=compact&locale=fr)]()
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=tudes00&theme=dracula&locale=fr&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://github.com/tudes00)
+[![GitHub Streak](https://github-readme-streak-stats-for-me.vercel.app?user=tudes00&theme=darcula&locale=fr&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://github.com/tudes00)
 
