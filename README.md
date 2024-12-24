@@ -10,5 +10,5 @@ Yo, I'm tudes, a french student who realy
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tudes00&theme=dracula&hide=gherkin,batchfile&layout=compact&locale=fr)]()
 
-[![GitHub Streak](https://github-readme-streak-stats-for-me.vercel.app?user=tudes00&theme=darcula&locale=fr&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://github.com/tudes00)
+[![GitHub Streak](https://github-readme-streak-stats-for-me.vercel.app?user=tudes00&theme=dracula&locale=fr&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://github.com/tudes00)
 
