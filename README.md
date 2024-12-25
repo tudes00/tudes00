@@ -9,7 +9,7 @@ Here are my top projects📁:
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tudes00&repo=VulnHunter&theme=dracula&locale=en)](https://github.com/tudes00/VulnHunter)
 
-  - **[Dusty](https://github.com/tudes00/VulnHunter)**:  
+  - **[Dusty](https://github.com/tudes00/Dusty)**:  
   A Discord bot for advanced message purging🗑️.
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tudes00&repo=Dusty&theme=dracula&locale=en)](https://github.com/tudes00/Dusty)  
