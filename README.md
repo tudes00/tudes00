@@ -7,7 +7,12 @@ Here are my top projects📁:
 - **[VulnHunter](https://github.com/tudes00/VulnHunter)**:  
   A tool for finding vulnerabilities 🐞.
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tudes00&repo=VulnHunter&theme=dracula&locale=en)](https://github.com/tudes00/VulnHunter)  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tudes00&repo=VulnHunter&theme=dracula&locale=en)](https://github.com/tudes00/VulnHunter)
+
+  - **[Dusty](https://github.com/tudes00/VulnHunter)**:  
+  A Discord bot for advanced message purging🗑️.
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tudes00&repo=Dusty&theme=dracula&locale=en)](https://github.com/tudes00/Dusty)  
 
 - **[Discord Bot](https://github.com/tudes00/discord-bot)**:  
   A feature-packed bot for managing servers 🤖.
