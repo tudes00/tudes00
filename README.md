@@ -41,5 +41,4 @@ Here are my top projects📁:
 ## 🌟 Upcoming Projects  
 - **Upgrading VulnHunter.py 🐞**: Adding more features and enhancements.  
 - **URL Shortener 🔗**: A simple tool for shortening links.  
-- **Portfolio 🗺️**: Showcasing my work. 
-- **Complete Purge Discord Bot 🗑️**: A simple bot for cleaning up servers.
+- **Portfolio 🗺️**: Showcasing my work.
