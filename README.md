@@ -42,3 +42,8 @@ Here are my top projects📁:
 - **Upgrading VulnHunter.py 🐞**: Adding more features and enhancements.  
 - **URL Shortener 🔗**: A simple tool for shortening links.  
 - **Portfolio 🗺️**: Showcasing my work.
+
+### 📧 Contact me
+ - **📧 My mail**: tudesdev@gmail.com
+ - **💬 My discord**: [🔗 Click Me](https://slug.vercel.app/tudesdiscord)
+ - **📷 My insta**: [🔗 Click Me](https://slug.vercel.app/tudesinsta)
