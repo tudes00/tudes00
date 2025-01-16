@@ -47,3 +47,5 @@ Here are my top projects📁:
  - **📧 My mail**: tudesdev@gmail.com
  - **💬 My discord**: [🔗 Click Me](https://slug.vercel.app/tudesdiscord)
  - **📷 My insta**: [🔗 Click Me](https://slug.vercel.app/tudesinsta)
+   
+![](https://hit.yhype.me/github/profile?account_id=121131713)
