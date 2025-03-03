@@ -4,6 +4,11 @@
 Here are my top projects📁:  
 
 ### 🛠️ Projects  
+- **[Turl](https://github.com/tudes00/turl)**:  
+  Manage your links easily with Turl, an advanced URL shortener packed with powerful features! 🚀
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tudes00&repo=turl&theme=dracula&locale=en)](https://github.com/tudes00/turl)  
+
 - **[VulnHunter](https://github.com/tudes00/VulnHunter)**:  
   A tool for finding vulnerabilities 🐞.
   
@@ -22,12 +27,8 @@ Here are my top projects📁:
 - **[AOMP](https://github.com/tudes00/aomp)**:  
   A website to observe the **Albion Online** market 📈(very buggy 🪬).
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tudes00&repo=aomp&theme=dracula&locale=en)](https://github.com/tudes00/aomp)   
-
-- **[Turl](https://github.com/tudes00/turl)**:  
-  Manage your links easily with Turl, an advanced URL shortener packed with powerful features! 🚀
-  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tudes00&repo=turl&theme=dracula&locale=en)](https://github.com/tudes00/turl)   
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tudes00&repo=aomp&theme=dracula&locale=en)](https://github.com/tudes00/aomp)
+   
 ---
 
 ## 🔢 My stats  
