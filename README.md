@@ -24,6 +24,10 @@ Here are my top projects📁:
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tudes00&repo=aomp&theme=dracula&locale=en)](https://github.com/tudes00/aomp)   
 
+- **[Turl](https://github.com/tudes00/turl)**:  
+  Manage your links easily with Turl, an advanced URL shortener packed with powerful features! 🚀
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tudes00&repo=turl&theme=dracula&locale=en)](https://github.com/tudes00/turl)   
 ---
 
 ## 🔢 My stats  
@@ -39,8 +43,7 @@ Here are my top projects📁:
 ---
 
 ## 🌟 Upcoming Projects  
-- **Upgrading VulnHunter.py 🐞**: Adding more features and enhancements.  
-- **URL Shortener 🔗**: A simple tool for shortening links.  
+- **Upgrading VulnHunter.py 🐞**: Adding more features and enhancements.
 - **Portfolio 🗺️**: Showcasing my work.
 
 ### 📧 Contact me
