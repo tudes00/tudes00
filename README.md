@@ -48,7 +48,7 @@ Here are my top projects📁:
 - **Portfolio 🗺️**: Showcasing my work.
 
 ### 📧 Contact me
- - **📧 My mail**: tudesdev@gmail.com
+ - **📧 My mail**: tudespro@outlook.fr
  - **💬 My discord**: [🔗 Click Me](https://slug.vercel.app/tudesdiscord)
  - **📷 My insta**: [🔗 Click Me](https://slug.vercel.app/tudesinsta)
    
