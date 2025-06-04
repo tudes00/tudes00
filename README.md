@@ -1,6 +1,12 @@
 # Yo 👋, I'm **tudes**  
 ## A french 🥖 student who **loves programming**👨‍💻, **climbing🧗‍♂️** and **cybersecurity**🛡️!  
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,discordjs,vscode,react,kali,ts,linux,github,bash" />
+  </a>
+</p>
+
 Here are my top projects📁:  
 
 ### 🛠️ Projects  
