@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,discordjs,vscode,react,kali,ts,linux,github,bash,python" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,discordjs,vscode,react,kali,ts,linux,github,bash,python,c" />
   </a>
 </p>
 
@@ -54,8 +54,7 @@ Here are my top projects📁:
 - **Portfolio 🗺️**: Showcasing my work.
 
 ### 📧 Contact me
- - **📧 My mail**: tudespro@outlook.fr
+ - **📧 My mail**: tudes0@proton.me
  - **💬 My discord**: [🔗 Click Me](https://slug.vercel.app/tudesdiscord)
- - **📷 My insta**: [🔗 Click Me](https://slug.vercel.app/tudesinsta)
    
 ![](https://hit.yhype.me/github/profile?account_id=121131713)
