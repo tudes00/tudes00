@@ -10,6 +10,11 @@
 Here are my top projects📁:  
 
 ### 🛠️ Projects  
+- **[Portfolio](https://github.com/tudes00/portfolio)**:  
+  My personal portfolio! I like the style.
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tudes00&repo=portfolio&theme=dracula&locale=en)](https://github.com/tudes00/portfolio)  
+
 - **[Turl](https://github.com/tudes00/turl)**:  
   Manage your links easily with Turl, an advanced URL shortener packed with powerful features! 🚀
   
