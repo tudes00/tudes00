@@ -11,9 +11,15 @@ Here are my top projects📁:
 
 ### 🛠️ Projects  
 - **[Portfolio](https://github.com/tudes00/portfolio)**:  
-  My personal portfolio! I like the style.
+  My personal portfolio!
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tudes00&repo=portfolio&theme=dracula&locale=en)](https://github.com/tudes00/portfolio)  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tudes00&repo=portfolio&theme=dracula&locale=en)](https://github.com/tudes00/portfolio)
+
+- **[ZeroLab]([https://github.com/tudes00/portfolio](https://github.com/tudes00/ZeroLab))**:  
+  Pentest, Write-ups, Tutorials, Tools, Labs, ...
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tudes00&repo=ZeroLab&theme=dracula&locale=en)](https://github.com/tudes00/ZeroLab)  
+
 
 - **[Turl](https://github.com/tudes00/turl)**:  
   Manage your links easily with Turl, an advanced URL shortener packed with powerful features! 🚀
@@ -34,12 +40,6 @@ Here are my top projects📁:
   A feature-packed bot for managing servers 🤖.
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tudes00&repo=discord-bot&theme=dracula&locale=en)](https://github.com/tudes00/discord-bot)   
-
-- **[AOMP](https://github.com/tudes00/aomp)**:  
-  A website to observe the **Albion Online** market 📈(very buggy 🪬).
-  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tudes00&repo=aomp&theme=dracula&locale=en)](https://github.com/tudes00/aomp)
-   
 ---
 
 ## 🔢 My stats  
@@ -55,11 +55,11 @@ Here are my top projects📁:
 ---
 
 ## 🌟 Upcoming Projects  
-- **Upgrading VulnHunter.py 🐞**: Adding more features and enhancements.
-- **Portfolio 🗺️**: Showcasing my work.
+- **Make VulnHunter.py v2.0 🐞**: Adding more features and enhancements.
+- **ZeroLab 🗺️**: Add more writeups, tuto, ...
 
 ### 📧 Contact me
  - **📧 My mail**: tudes0@proton.me
- - **💬 My discord**: [🔗 Click Me](https://slug.vercel.app/tudesdiscord)
+ - **💬 My discord**: [🔗 Click Me](http://eturl.vercel.app/s/discord)
    
 ![](https://hit.yhype.me/github/profile?account_id=121131713)
