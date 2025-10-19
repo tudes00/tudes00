@@ -7,9 +7,9 @@
   </a>
 </p>
 
-Here are my top projects📁:  
+Please, check my **[Portfolio](https://github.com/tudes00/portfolio)** if you want to know more!
 
-### 🛠️ Projects  
+### Here are my top projects📁:  
 - **[Portfolio](https://github.com/tudes00/portfolio)**:  
   My personal portfolio!
   
