@@ -1,6 +1,8 @@
 # Yo 👋, I'm **tudes**  
 ## A french 🥖 student who **loves programming**👨‍💻, **climbing🧗‍♂️** and **cybersecurity**🛡️!  
 
+📍Currently learning cybersecurity with [S_Y](https://github.com/SYcss1)
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,discordjs,vscode,react,kali,ts,linux,github,bash,python,c" />
